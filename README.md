@@ -10,3 +10,4 @@
    
    The above is already possible via the code here. The next step is to enable all selected items to be changed together.
 
+   Old version of this code: https://blogs.oracle.com/geertjan/entry/expand_selection_to_word
